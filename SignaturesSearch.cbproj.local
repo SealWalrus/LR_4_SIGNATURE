@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.217,=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.353,=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.335,C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\Unit1.cpp=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\FindCheckThread.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.939,C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\Unit1.dfm=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\SSearch.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,=C:\SQLite\3410200\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.950,C:\Users\firso\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.317,=C:\SQLite\3410200\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,=C:\SQLite\3410200\sqlite3.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.939,C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\Unit1.cpp=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\SSearch.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\Unit1.cpp=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\WriteFillThread.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.335,C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\Unit1.h=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\FindCheckThread.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,=C:\Users\firso\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.950,C:\Users\firso\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,=C:\Users\firso\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,C:\Users\firso\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\SignaturesSearchPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.970,C:\Users\firso\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\SignaturesSearch.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\SignaturesSearch.cbproj=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\SignaturesSearch.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.950,C:\Users\firso\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\Unit1.h=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\WriteFillThread.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.939,C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\Unit1.h=C:\Users\firso\Documents\Embarcadero\Studio\Projects\SignaturesSearch\SSearch.h</Transaction>
+  </Transactions>
+</BorlandProject>
